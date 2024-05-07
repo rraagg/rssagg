@@ -1,4 +1,4 @@
-# Golang Web Server and RSS Scrapter Tutorial
+# Golang Web Server and RSS Scraper Tutorial
 
 ["Golang Web Server and RSS Scrapter Tutorial"]("https://www.youtube.com/watch?v=dpXhDzgUSe4&t=2799s")
 
